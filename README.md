@@ -19,7 +19,16 @@ Esse repositório será mantido ativo até a data da live onde será integrado a
 - [ ] Dockerizar a API
 - [ ] Testes de balanceamento de carga
 
-## Como iniciar o ambiente
+## Como iniciar o ambiente de desenvolvimento
+
+O projeto é baseado no poetry, então ele deve ser inicializado
+
+```sh
+poetry shell    # para entrar no shell
+poetry install  # para instalar as dependencias, caso elas ainda não estejam instaladas
+```
+
+## Como iniciar o ambiente para produção
 
 
 ## Como rodar os testes de carga
