@@ -1,6 +1,6 @@
 # Live de Python sobre Locust
 
-Repositório da Live de Python # 102 Sobre testes de balanceamento de carga
+Repositório da Live de Python # 112 Sobre testes de balanceamento de carga
 
 Live ministrada por @flaviomeira.
 
